@@ -1,6 +1,7 @@
 {
   "packages": [
-    "packages/**"
+    "packages/*",
+    "packages/my-app/dist"
   ],
   "version": "0.0.1"
 }
