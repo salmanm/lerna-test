@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "my-app-lerna-1",
   "version": "0.0.3",
   "description": "> TODO: description",
   "author": "Salman <salmanmitha@gmail.com>",
@@ -22,5 +22,5 @@
     "@babel/cli": "^7.6.4",
     "@babel/core": "^7.6.4"
   },
-  "gitHead": "89a02dc027fee3082dbd15b58a65333642746dd8"
+  "gitHead": "484fa01755dae9e1f9a3db418b2d5c9cf3cfe6e0"
 }
