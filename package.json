@@ -5,6 +5,6 @@
     "lerna": "^3.18.3"
   },
   "dependencies": {
-    "my-app-lerna-1": "0.0.4"
+    "my-app-lerna-1": "0.0.7"
   }
 }

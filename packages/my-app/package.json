@@ -1,6 +1,6 @@
 {
   "name": "my-app-lerna-1",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "> TODO: description",
   "author": "Salman <salmanmitha@gmail.com>",
   "homepage": "",
@@ -10,9 +10,6 @@
     "lib": "lib",
     "test": "__tests__"
   },
-  "files": [
-    "dist"
-  ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "build": "babel lib --out-dir dist",
