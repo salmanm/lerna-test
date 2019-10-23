@@ -22,7 +22,5 @@
     "@babel/cli": "^7.6.4",
     "@babel/core": "^7.6.4"
   },
-  "publishConfig": {
-    "directory": "dist"
-  }
+  "gitHead": "89a02dc027fee3082dbd15b58a65333642746dd8"
 }
