@@ -16,7 +16,7 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "build": "babel lib --out-dir dist",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build && node ./scripts/pkg.js"
   },
   "dependencies": {
     "@babel/cli": "^7.6.4",
@@ -25,5 +25,5 @@
   "publishConfig": {
     "directory": "dist"
   },
-  "gitHead": "484fa01755dae9e1f9a3db418b2d5c9cf3cfe6e0"
+  "gitHead": "e5f9cc408f7b1d0e35b477904ae0788c70e506b1"
 }
